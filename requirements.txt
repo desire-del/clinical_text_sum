@@ -1,0 +1,7 @@
+ipykernel
+transformers
+pandas
+datasets
+sentence-transformers
+torch
+tensorflow
