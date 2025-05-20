@@ -5,3 +5,12 @@ datasets
 sentence-transformers
 torch
 tensorflow
+trl 
+accelerate
+pert 
+jupyter
+ipywidgets
+evaluate
+nltk
+tf-keras
+sentencepiece
