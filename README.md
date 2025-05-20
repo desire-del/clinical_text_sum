@@ -8,7 +8,7 @@
 
 # 🩺 Medical Question Summarization using Flan-T5-Large with LoRA
 
-This project explores fine-tuning the **Flan-T5-Large** model using **LoRA (Low-Rank Adaptation)** for abstractive summarization of complex medical questions from the ![MEQSum dataset](https://huggingface.co/datasets/albertvillanova/meqsum). The goal is to generate concise, accurate summaries that retain the core clinical intent of lengthy consumer health questions.
+This project explores fine-tuning the **Flan-T5-Large** model using **LoRA (Low-Rank Adaptation)** for abstractive summarization of complex medical questions from the [MEQSum dataset](https://huggingface.co/datasets/albertvillanova/meqsum). The goal is to generate concise, accurate summaries that retain the core clinical intent of lengthy consumer health questions.
 
 <p align="center">
   <img src="doc/bg.jpg" alt="Cover Image">
